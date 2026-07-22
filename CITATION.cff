@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this research artifact, please cite the accompanying paper."
+title: "FisheyeVR"
+type: software
+authors:
+  - family-names: "Lu"
+    given-names: "De-Yuan"
+    orcid: "https://orcid.org/0009-0007-7133-1949"
+  - family-names: "Cheng"
+    given-names: "Lung-Pan"
+    orcid: "https://orcid.org/0000-0002-7712-8622"
+repository-code: "https://github.com/derekdylu/FisheyeVR"
+url: "https://doi.org/10.1145/3672539.3686316"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Lu"
+      given-names: "De-Yuan"
+      orcid: "https://orcid.org/0009-0007-7133-1949"
+    - family-names: "Cheng"
+      given-names: "Lung-Pan"
+      orcid: "https://orcid.org/0000-0002-7712-8622"
+  title: "FisheyeVR: Extending the Field of View by Dynamic Zooming in Virtual Reality"
+  collection-title: "Adjunct Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology"
+  doi: "10.1145/3672539.3686316"
+  publisher:
+    name: "Association for Computing Machinery"
+  year: 2024

@@ -5,6 +5,19 @@ field-of-view transitions in virtual-reality head-mounted displays. This
 repository is a public-facing source snapshot of the Unity prototype and its
 research analysis pipeline.
 
+## Publication
+
+This repository accompanies the following paper:
+
+> De-Yuan Lu and Lung-Pan Cheng. 2024. FisheyeVR: Extending the Field of View
+> by Dynamic Zooming in Virtual Reality. In *Adjunct Proceedings of the 37th
+> Annual ACM Symposium on User Interface Software and Technology (UIST
+> Adjunct '24)*. ACM, Article 114, 3 pages.
+> <https://doi.org/10.1145/3672539.3686316>
+
+Use the metadata in [`CITATION.cff`](CITATION.cff) when citing this research
+artifact.
+
 ## Repository status
 
 This is a research artifact, not a supported product or a turnkey replication
