@@ -1,0 +1,80 @@
+# macOS and editors
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Private research data and generated analysis output
+/analysis/data/*
+!/analysis/data/README.md
+/analysis/outputs/
+/analysis/**/LOG_*.txt
+/analysis/**/combine_*.csv
+/analysis/**/*_groups.txt
+/analysis/**/*_pairwise.txt
+
+# Unity generated directories
+/unity/[Ll]ibrary/
+/unity/[Tt]emp/
+/unity/[Oo]bj/
+/unity/[Ll]ogs/
+/unity/[Uu]ser[Ss]ettings/
+/unity/[Mm]emoryCaptures/
+/unity/[Bb]uild/
+/unity/[Bb]uilds/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.apk
+*.unitypackage
+
+# Legacy private study-log location (current code uses persistentDataPath)
+/unity/Assets/ExperimentLogs/
+/unity/Assets/ExperimentLogs.meta
+
+# Licensed third-party Unity source intentionally excluded from this release
+/unity/Assets/AK Studio Art/
+/unity/Assets/AK Studio Art.meta
+/unity/Assets/BNG Framework/
+/unity/Assets/BNG Framework.meta
+/unity/Assets/Cinema Suite/
+/unity/Assets/Cinema Suite.meta
+/unity/Assets/Plugins/RootMotion/
+/unity/Assets/Plugins/RootMotion.meta
+/unity/Assets/SimplePoly City - Low Poly Assets/
+/unity/Assets/SimplePoly City - Low Poly Assets.meta
+/unity/Assets/TextMesh Pro/
+/unity/Assets/TextMesh Pro.meta
+
+# Local secrets and signing material
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key

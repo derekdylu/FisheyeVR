@@ -1,0 +1,15 @@
+ipykernel
+ipywidgets
+jupyterlab
+matplotlib
+nbformat
+numpy
+pandas
+pingouin
+plotly
+pyquaternion
+scikit-posthocs
+scipy
+seaborn
+statsmodels
+sympy
