@@ -18,6 +18,14 @@ This repository accompanies the following paper:
 Use the metadata in [`CITATION.cff`](CITATION.cff) when citing this research
 artifact.
 
+## Research poster
+
+[![FisheyeVR research poster showing the system concept, study results, and four dynamic zooming methods](docs/assets/fisheyevr-poster-preview.jpg)](docs/assets/fisheyevr-poster.jpg)
+
+The poster summarizes the FisheyeVR concept, its three user studies, and the
+four dynamic zooming methods explored in the prototype. Select the preview to
+open the full-resolution poster.
+
 ## Repository status
 
 This is a research artifact, not a supported product or a turnkey replication
