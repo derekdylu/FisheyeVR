@@ -1,5 +1,7 @@
 # FisheyeVR
 
+<img width="1722" height="960" alt="teaser" src="https://github.com/user-attachments/assets/34f3b3a3-e2e4-4697-a4b8-6e72d0086987" />
+
 FisheyeVR is an archived research prototype that explores dynamic zooming and
 field-of-view transitions in virtual-reality head-mounted displays. This
 repository is a public-facing source snapshot of the Unity prototype and its
